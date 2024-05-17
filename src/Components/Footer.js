@@ -41,8 +41,7 @@ const Footer = () => {
                 >
                   Location
                 </p>
-                <p style={{ fontSize: "1.2rem" }}>94124 Diana St,</p>
-                <p style={{ fontSize: "1.2rem" }}>San Francisco</p>
+                <p style={{ fontSize: "1.2rem" }}>Jl. Tukad Yeh Aya No.173 A, Renon,<br /> Denpasar Selatan, Kota Denpasar,<br /> Bali 80239,</p>
               </div>
             </center>
           </Col>
