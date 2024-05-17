@@ -69,7 +69,7 @@ const Footer = () => {
                 fontSize: "1.2rem",
                 color: "burlywood",
                 borderBottom: "2px solid burlywood",
-                padding: "2px",
+                padding: "2.0px",
                 width: "auto",
                 margin: "10px",
               }}
